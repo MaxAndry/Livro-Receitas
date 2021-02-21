@@ -3,3 +3,4 @@
 ## Olá bem vindo ao meu Livro de Receitas:book:
 
 - _strogonoff de Frango_ 
+- Pavê
